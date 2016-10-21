@@ -1,6 +1,11 @@
 *.class
 *.log
 
+# Package Files #
+*.jar
+*.war
+*.ear
+
 # sbt specific
 .cache
 .history
@@ -15,3 +20,16 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+.idea
+*.iml
+
+hs_err_pid*
+nb-configuration.xml
+/*/target/
+/*/.settings/
+/*/.classpath
+/*/target/
+.project
+.classpath
+.settings
+*/logs/
