@@ -21,6 +21,7 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 .idea
+.idea/*
 *.iml
 
 hs_err_pid*
